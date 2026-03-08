@@ -2,4 +2,5 @@
 
 ## Tasks
 
-- [ ] step 1
+- [x] step 1
+- [ ] step 2
